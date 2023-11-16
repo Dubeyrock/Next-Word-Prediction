@@ -1,4 +1,4 @@
-# Next-Word-Prediction
+# Next Word Prediction using NLTK
 I'm thrilled to share that I've successfully wrapped up my latest project on "Next Word Prediction" using NLTK and TensorFlow. This project has been an incredible journey into the world of natural language processing and deep learning.
 
 The goal of this project was to develop a model that can predict the next word in a sentence, and it's fascinating how advanced techniques in NLP and TensorFlow can make this possible.
