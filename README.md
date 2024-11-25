@@ -6,3 +6,4 @@ This project aimed to develop a model that can predict the next word in a senten
 📝 Whether you're a writer looking for creative suggestions or you're intrigued by how AI can understand and generate human language, this project explores the possibilities of NLP and deep learning.
 🙌 I'm immensely proud of the results and the knowledge I've gained along the way. If you're curious to learn more about this project or explore its applications, please don't hesitate to reach out. I'd love to share more about the process and the exciting outcomes.
 hashtag#NLP hashtag#DeepLearning hashtag#AIProjects hashtag#NextWordPrediction hashtag#NLTK hashtag#TensorFlow hashtag#AIInLanguage hashtag#LinkedInProjects hashtag#CompletedProject
+...........................
